@@ -1,0 +1,10 @@
+student1:Course1:25/30
+student2:Course3:9/10
+student1:Course2:19/20
+student1:Course3:10/10
+student3:Course1:20/30
+student2:Course2:15/20
+student3:Course4:5/10
+student4:Course2:18/20
+student5:Course1:30/30
+student5:Course4:7/10

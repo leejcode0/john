@@ -1,0 +1,8 @@
+aaa	89
+bbb	70
+ccc	65
+ddd	50
+eee	45
+fff	20
+ggg	12
+hhh	99
